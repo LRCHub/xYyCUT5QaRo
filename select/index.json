@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Butter-Fly",
+  "base_artist": "전영호",
+  "createdAt": "2026-02-17T16:49:42.744475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Butter-Fly",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/01_Butter-Fly_和田光司.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Butter-Fly",
+      "artist": "nyanyannya",
+      "has_synced": false,
+      "path": "select/02_Butter-Fly_nyanyannya.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Butter-Fly",
+      "artist": "Kouji Wada",
+      "has_synced": true,
+      "path": "select/03_Butter-Fly_Kouji_Wada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Butter-Fly〜Strong Version〜",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/04_Butter-Fly〜Strong_Version〜_和田光司.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Butter-Fly ～Strong Version～",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/05_Butter-Fly_~Strong_Version~_和田光司.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Butter-Fly(ピアノバージョン)",
+      "artist": "和田光司",
+      "has_synced": false,
+      "path": "select/06_Butter-Fly(ピアノバージョン)_和田光司.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Butter-Fly (劇場サイズ #1)",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/07_Butter-Fly_(劇場サイズ__1)_和田光司.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Butter-Fly(劇場サイズ#1)",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/08_Butter-Fly(劇場サイズ_1)_和田光司.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Butter-Fly〜tri.Version〜",
+      "artist": "和田光司",
+      "has_synced": false,
+      "path": "select/09_Butter-Fly〜tri.Version〜_和田光司.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Butter-Fly",
+      "artist": "Tsuko G.",
+      "has_synced": true,
+      "path": "select/10_Butter-Fly_Tsuko_G..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Butter-Fly (デジモンアドベンチャー全話OP)",
+      "artist": "大澤翔",
+      "has_synced": true,
+      "path": "select/11_Butter-Fly_(デジモンアドベンチャー全話OP)_大澤翔.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Butter-Fly",
+      "artist": "Oosawa Shou",
+      "has_synced": false,
+      "path": "select/12_Butter-Fly_Oosawa_Shou.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Butter-Fly (Digimon Adventure)",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/13_Butter-Fly_(Digimon_Adventure)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Butter-Fly (From \"Digimon Adventure\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/14_Butter-Fly_(From__Digimon_Adventure_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Butter-Fly",
+      "artist": "Kouji Wada",
+      "has_synced": true,
+      "path": "select/15_Butter-Fly_Kouji_Wada.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Butter-Fly",
+      "artist": "Wada Koji",
+      "has_synced": true,
+      "path": "select/16_Butter-Fly_Wada_Koji.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Butter-Fly (劇場サイズ)",
+      "artist": "和田光司",
+      "has_synced": false,
+      "path": "select/17_Butter-Fly_(劇場サイズ)_和田光司.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Butter-Fly(劇場サイズ#1)",
+      "artist": "Wada Kouji",
+      "has_synced": false,
+      "path": "select/18_Butter-Fly(劇場サイズ_1)_Wada_Kouji.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Butter-Fly",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/19_Butter-Fly_和田光司.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Butter-Fly",
+      "artist": "전영호",
+      "has_synced": false,
+      "path": "select/pl_01_Butter-Fly_전영호.txt"
+    }
+  ]
+}
